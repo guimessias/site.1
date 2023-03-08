@@ -83,3 +83,13 @@ nav li a a:hover{
     transition: 0.3s;
 
 }
+
+.texto .botoes buttuon.n-overlay{
+    color: white;
+    background: none;
+    border: 2px solid white;
+}
+.texto .botoes button.n-overlay:hover{
+    color: black;
+    background-color: white;
+}
